@@ -1,0 +1,3 @@
+- [Link to the Colab sheet](https://colab.research.google.com/drive/1lXP6pJOI6Ser2Iqar48tJIr46nkvOZxQ?usp=sharing)
+- As backup, the face\_alignment.ipynb file has been included
+- All files used within the notebook have been included
